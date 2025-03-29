@@ -1,0 +1,1 @@
+{"name":"Local: DSA02030_LietKeXauKiTu","url":"e:\\DSA\\DSA02030_LietKeXauKiTu.cpp","tests":[{"id":1741093901161,"input":"D 2","output":"AA\nAB\nAC\nAD\nBB\nBC\nBD\nCC\nCD\nDD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA02030_LietKeXauKiTu.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DSA06044_SapXepChanLe","url":"e:\\DSA\\DSA06044_SapXepChanLe.cpp","tests":[{"id":1739803517253,"input":"4\n1 2 3 4","output":"1 4 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA06044_SapXepChanLe.cpp","group":"local","local":true}

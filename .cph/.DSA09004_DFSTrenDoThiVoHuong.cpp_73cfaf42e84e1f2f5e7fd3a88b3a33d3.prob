@@ -1,0 +1,1 @@
+{"name":"Local: DSA09004_DFSTrenDoThiVoHuong","url":"e:\\DSA\\DSA09004_DFSTrenDoThiVoHuong.cpp","tests":[{"id":1741060402624,"input":"1\n\n6 9 5\n\n1 2\n\n1 3\n\n2 3\n\n2 4\n\n3 4\n\n3 5\n\n4 5\n\n4 6\n\n5 6","output":"5 3 1 2 4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA09004_DFSTrenDoThiVoHuong.cpp","group":"local","local":true}

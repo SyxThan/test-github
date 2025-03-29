@@ -1,0 +1,1 @@
+{"name":"Local: TH00006_SXCHENLKN","url":"e:\\DSA\\TH00006_SXCHENLKN.cpp","tests":[{"id":1742104567783,"input":"6\n\n5 8 3 9 1 4","output":"Buoc 5: 1 3 4 5 8 9\n\nBuoc 4: 1 3 5 8 9\n\nBuoc 3: 3 5 8 9\n\nBuoc 2: 3 5 8\n\nBuoc 1: 5 8\n\nBuoc 0: 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\TH00006_SXCHENLKN.cpp","group":"local","local":true}

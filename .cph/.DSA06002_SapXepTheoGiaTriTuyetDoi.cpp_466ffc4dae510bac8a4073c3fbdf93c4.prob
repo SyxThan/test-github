@@ -1,0 +1,1 @@
+{"name":"Local: DSA06002_SapXepTheoGiaTriTuyetDoi","url":"e:\\DSA\\DSA06002_SapXepTheoGiaTriTuyetDoi.cpp","tests":[{"id":1738807748999,"input":"2\n5 7\n10 5 3 9 2\n5 6\n1 2 3 4 5","output":"5 9 10 3 2\n5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA06002_SapXepTheoGiaTriTuyetDoi.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DSA06013_SoLanXuatHien","url":"e:\\DSA\\DSA06013_SoLanXuatHien.cpp","tests":[{"id":1739329145539,"input":"2\n7 2\n\n1 1 2 2 2 2 3\n\n7 4\n\n1 1 2 2 2 2 3","output":"4\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA06013_SoLanXuatHien.cpp","group":"local","local":true}

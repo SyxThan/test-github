@@ -1,0 +1,1 @@
+{"name":"Local: DSA_01011_HoanViTiepTheoCuaChuoiSo","url":"e:\\DSA\\DSA_01011_HoanViTiepTheoCuaChuoiSo.cpp","tests":[{"id":1740629621801,"input":"3\n1 123\n2 279134399742\n3 987","output":"1 132\n2 279134423799\n3 BIGGEST"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA_01011_HoanViTiepTheoCuaChuoiSo.cpp","group":"local","local":true}

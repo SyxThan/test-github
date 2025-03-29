@@ -1,0 +1,1 @@
+{"name":"Local: TH00003_SoLanXuatHienTrongMang","url":"e:\\DSA\\TH00003_SoLanXuatHienTrongMang.cpp","tests":[{"id":1742103253344,"input":"2\n7 2\n\n1 1 2 2 2 2 3\n\n7 4\n\n1 1 2 2 2 2 3","output":"4\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\TH00003_SoLanXuatHienTrongMang.cpp","group":"local","local":true}

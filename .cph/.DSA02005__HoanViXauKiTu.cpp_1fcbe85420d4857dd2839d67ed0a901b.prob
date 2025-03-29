@@ -1,0 +1,1 @@
+{"name":"Local: DSA02005__HoanViXauKiTu","url":"e:\\DSA\\DSA02005__HoanViXauKiTu.cpp","tests":[{"id":1740886862007,"input":"2\nAB\nABC","output":"AB BA\nABC ACB BAC BCA CAB CBA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA02005__HoanViXauKiTu.cpp","group":"local","local":true}

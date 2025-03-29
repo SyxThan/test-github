@@ -1,0 +1,1 @@
+{"name":"Local: DSA01005_SinhHoanVi","url":"e:\\DSA\\DSA01005_SinhHoanVi.cpp","tests":[{"id":1738761769999,"input":"2\n2\n3","output":"12 21\n123 132 213 231 312 321"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA01005_SinhHoanVi.cpp","group":"local","local":true}

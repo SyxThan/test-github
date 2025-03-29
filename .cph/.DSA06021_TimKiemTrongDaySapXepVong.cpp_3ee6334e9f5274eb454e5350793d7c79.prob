@@ -1,0 +1,1 @@
+{"name":"Local: DSA06021_TimKiemTrongDaySapXepVong","url":"e:\\DSA\\DSA06021_TimKiemTrongDaySapXepVong.cpp","tests":[{"id":1739342980403,"input":"2\n10\n5 6 7 8 9 10 1 2 3 4\n5\n1 1 1  1  1","output":"1 2\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA06021_TimKiemTrongDaySapXepVong.cpp","group":"local","local":true}

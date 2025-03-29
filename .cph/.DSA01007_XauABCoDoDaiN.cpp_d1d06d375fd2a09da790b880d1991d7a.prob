@@ -1,0 +1,1 @@
+{"name":"Local: DSA01007_XauABCoDoDaiN","url":"e:\\DSA\\DSA01007_XauABCoDoDaiN.cpp","tests":[{"id":1738803995455,"input":"2\n2\n3","output":"AA AB BA BB\nAAA AAB ABA ABB BAA BAB BBA BBB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA01007_XauABCoDoDaiN.cpp","group":"local","local":true}

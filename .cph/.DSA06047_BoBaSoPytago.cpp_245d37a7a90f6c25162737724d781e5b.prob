@@ -1,0 +1,1 @@
+{"name":"Local: DSA06047_BoBaSoPytago","url":"e:\\DSA\\DSA06047_BoBaSoPytago.cpp","tests":[{"id":1739839301149,"input":"2\n5\n3 1 4 6 5\n3\n1 1 1","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA06047_BoBaSoPytago.cpp","group":"local","local":true}

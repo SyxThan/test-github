@@ -1,0 +1,1 @@
+{"name":"Local: CTDL001_ThuatToanSinh","url":"e:\\DSA\\CTDL001_ThuatToanSinh.cpp","tests":[{"id":1738629009753,"input":"4","output":"0 0 0 0\n0 1 1 0\n1 0 0 1\n1 1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\CTDL001_ThuatToanSinh.cpp","group":"local","local":true}

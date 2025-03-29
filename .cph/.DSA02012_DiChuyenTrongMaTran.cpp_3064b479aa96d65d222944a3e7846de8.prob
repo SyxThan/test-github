@@ -1,0 +1,1 @@
+{"name":"Local: DSA02012_DiChuyenTrongMaTran","url":"e:\\DSA\\DSA02012_DiChuyenTrongMaTran.cpp","tests":[{"id":1741013973591,"input":"2\n2  3\n1  2  3 \n4  5  6\n2  2\n1  2 \n3  4","output":"3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA02012_DiChuyenTrongMaTran.cpp","group":"local","local":true}

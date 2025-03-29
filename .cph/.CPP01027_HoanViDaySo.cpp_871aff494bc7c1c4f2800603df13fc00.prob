@@ -1,0 +1,1 @@
+{"name":"Local: CPP01027_HoanViDaySo","url":"e:\\DSA\\CPP01027_HoanViDaySo.cpp","tests":[{"id":1740576770814,"input":"3\n88 77 99","output":"77 88 99\n77 99 88\n88 77 99\n88 99 77\n99 77 88\n99 88 77"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\CPP01027_HoanViDaySo.cpp","group":"local","local":true}

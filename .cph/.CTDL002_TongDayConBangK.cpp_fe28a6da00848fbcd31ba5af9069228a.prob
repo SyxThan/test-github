@@ -1,0 +1,1 @@
+{"name":"Local: CTDL002_TongDayConBangK","url":"e:\\DSA\\CTDL002_TongDayConBangK.cpp","tests":[{"id":1738630457057,"input":"5 50\n5 10 15 20 25","output":"10 15 25\n5 20 25\n5 10 15 20\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\CTDL002_TongDayConBangK.cpp","group":"local","local":true}

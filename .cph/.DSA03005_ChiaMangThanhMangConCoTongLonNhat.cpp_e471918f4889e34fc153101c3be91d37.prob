@@ -1,0 +1,1 @@
+{"name":"Local: DSA03005_ChiaMangThanhMangConCoTongLonNhat","url":"e:\\DSA\\DSA03005_ChiaMangThanhMangConCoTongLonNhat.cpp","tests":[{"id":1741961167314,"input":"2\n5 2\n8 4 5 2 10\n8 3\n1 1 1 1 1 1 1 1","output":"17\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA03005_ChiaMangThanhMangConCoTongLonNhat.cpp","group":"local","local":true}

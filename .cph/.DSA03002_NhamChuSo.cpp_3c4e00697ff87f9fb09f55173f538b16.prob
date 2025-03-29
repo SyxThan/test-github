@@ -1,0 +1,1 @@
+{"name":"Local: DSA03002_NhamChuSo","url":"e:\\DSA\\DSA03002_NhamChuSo.cpp","tests":[{"id":1741960066471,"input":"\n11 25","output":"\n36 37"},{"id":1741960279387,"input":"16796 58786","output":"74580 85582"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA03002_NhamChuSo.cpp","group":"local","local":true}
