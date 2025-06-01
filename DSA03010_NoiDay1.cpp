@@ -1,28 +1,31 @@
 #include<bits/stdc++.h>
-
+#define ll long long
+#define limit 1000000
 using namespace std;
 
 int main(){
-    int t;
-    cin >> t;
-    while(t--){
-        int n;
-        cin >> n;
-        int a[n];
-        for(int i = 0;i < n;i++){
-            cin >> a[i];
-        }
-        int res = 0;
-        int k = n;
-        while(k != 1){
-            sort(a,a+k);
-            a[0] = a[0] + a[1];
-            res += a[0];
-            for(int j = 1;j < n - 1;j++){
-                a[j] = a[j+1];
-            }
-            k--;
-        }
-        cout << res << endl;
-    }
+	int t;
+	cin >> t;
+	while(t--){
+		priority_queue<int,vector<int>, greater<int>> pq;
+		int n;
+		cin >> n;
+
+		for(int i = 0;i < n;i++){
+			int x;
+			cin >> x;
+			pq.push(x);
+		}
+		ll ans = 0;
+		while(pq.size() >= 2){
+			int a = pq.top();pq.pop();
+			int b = pq.top();pq.pop();
+			ans += (ll)a+b;
+			pq.push(a+b);
+		}
+		cout << ans << endl;
+
+	}
+
 }
+

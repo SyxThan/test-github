@@ -1,0 +1,1 @@
+{"name":"Local: DSA02029_ThapHaNoi","url":"e:\\DSA\\DSA02029_ThapHaNoi.cpp","tests":[{"id":1743783310128,"input":"3","output":"A -> C\nA -> B\nC -> B\nA -> C\nB -> A\nB -> C\nA -> C"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\DSA02029_ThapHaNoi.cpp","group":"local","local":true}

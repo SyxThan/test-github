@@ -16,9 +16,9 @@ int main(){
         }
         sort(b,b+n);
         long long first = a[0];
-        int pos;
+        int pos = -1;
         for(int i = 0;i < n;i++){
-            if(a[i] == first){
+            if(b[i] == first){
                 pos = i;
                 break;
             }

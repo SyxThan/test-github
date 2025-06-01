@@ -1,0 +1,1 @@
+{"name":"Local: TH00012_QuayLuiToHop","url":"e:\\DSA\\TH00012_QuayLuiToHop.cpp","tests":[{"id":1743784018677,"input":"5 3","output":"123\n124\n125\n134\n135\n145\n234\n235\n245\n345"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\TH00012_QuayLuiToHop.cpp","group":"local","local":true}
